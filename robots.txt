@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://playerendgame.github.io/web_portfolio_v2/sitemap.xml

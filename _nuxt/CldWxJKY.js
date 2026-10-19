@@ -1,0 +1,1 @@
+import{b as e,n as t,r as n}from"./1_3zKuTQ.js";function r(r,i,a){let o=`${e().public.siteUrl}${a===`/`?`/`:a}`;n({title:r,description:i,ogTitle:r,ogDescription:i,ogUrl:o,twitterTitle:r,twitterDescription:i}),t({link:[{rel:`canonical`,href:o}]})}export{r as t};

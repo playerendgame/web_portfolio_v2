@@ -1,0 +1,1 @@
+import{b as e}from"./1_3zKuTQ.js";function t(){let t=e().app.baseURL.replace(/\/$/,``);return e=>`${t}/${e.replace(/^\//,``)}`}export{t};
